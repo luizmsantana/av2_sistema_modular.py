@@ -2,9 +2,9 @@
 # Arquivo: av2_sistema_modular.py
 
 dados_brutos = [
-    "  carlos eduardo silva;desenvolvedor;11988887777  ",
-    "  ana paula mendes;analista de rh;21977776666  ",
-    "  roberto carlos oliveira;gerente de projetos;31966665555  "
+    "  joao victor santos;programador;11955554444  ",
+    "  mariana costa;recursos humanos;21944443333  ",
+    "  lucas fernandes;gerente comercial;31933332222  "
 ]
 
 
